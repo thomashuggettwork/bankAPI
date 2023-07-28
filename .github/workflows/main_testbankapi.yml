@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'testbankAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_17A923080B9B48CC803C02D6CDB007DD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF43C5F884BC4429966DBFAA398E90FC }}
           package: .
