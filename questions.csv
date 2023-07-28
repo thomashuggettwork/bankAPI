@@ -43,9 +43,9 @@ question_id,question_text,answer_text
 8,"Are you expecting an inheritance", Yes
 8,"Are you expecting an inheritance", no
 8,"Are you expecting an inheritance", maybe
-9, "Do you have any debt balances including monthly payments and interest rates etc., No
-9, "Do you have any debt balances including monthly payments and interest rates etc., A few
-9, "Do you have any debt balances including monthly payments and interest rates etc., many
+9, "Do you have any debt balances including monthly payments and interest rates etc.", No
+9, "Do you have any debt balances including monthly payments and interest rates etc.", A few
+9, "Do you have any debt balances including monthly payments and interest rates etc.", many
 10,"What is your current approximate net worth?", <250000
 10,"What is your current approximate net worth?", 250000-500000
 10,"What is your current approximate net worth?", 500000-750000
