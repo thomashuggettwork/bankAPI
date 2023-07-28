@@ -1,0 +1,93 @@
+question_id,question_text,answer_text
+1,"What is Your age?", <25
+1,"What is Your age?", 25-25
+1,"What is Your age?", 35-45
+1,"What is Your age?", 45-55
+1,"What is Your age?", 55-65
+1,"What is Your age?", >65
+2,"What is your employment status?", Unemployed
+2,"What is your employment status?", employed
+2,"What is your employment status?", self-employed
+2,"What is your employment status?", student
+2,"What is your employment status?", retired
+2,"What is your employment status?", other
+3,"What is your marital status", single
+3,"What is your marital status", married
+3,"What is your marital status", divorced
+3,"What is your marital status", widow
+3,"What is your marital status", domestic partnership
+3,"What is your marital status", other
+4,"How many dependants are in your house",0
+4,"How many dependants are in your house",1
+4,"How many dependants are in your house",2
+4,"How many dependants are in your house", >3
+5,"What is your annual income", <25000
+5,"What is your annual income", 25000-50000
+5,"What is your annual income", 50000-100000
+5,"What is your annual income", 100000-150000
+5,"What is your annual income", >150000
+5,"What is your annual income", prefer not to say
+6,"What are your total monthly expenses", <1000
+6,"What are your total monthly expenses", 1000-2000
+6,"What are your total monthly expenses", 2000-3000
+6,"What are your total monthly expenses", 3000-4000
+6,"What are your total monthly expenses", 4000-5000
+6,"What are your total monthly expenses", >50000
+6,"What are your total monthly expenses", prefer not to say
+7,"Do you have any other investments", stocks
+7,"Do you have any other investments", bonds
+7,"Do you have any other investments",mutual funds
+7,"Do you have any other investments",real estate
+7,"Do you have any other investments",crypto
+7,"Do you have any other investments",none
+8,"Are you expecting an inheritance", Yes
+8,"Are you expecting an inheritance", no
+8,"Are you expecting an inheritance", maybe
+9, "Do you have any debt balances including monthly payments and interest rates etc., No
+9, "Do you have any debt balances including monthly payments and interest rates etc., A few
+9, "Do you have any debt balances including monthly payments and interest rates etc., many
+10,"What is your current approximate net worth?", <250000
+10,"What is your current approximate net worth?", 250000-500000
+10,"What is your current approximate net worth?", 500000-750000
+10,"What is your current approximate net worth?", 750000-1000000
+10,"What is your current approximate net worth?", >1000000
+11,"How secure is your current and future income from your salary, pensions, and other investments?",Not secure
+11,"How secure is your current and future income from your salary, pensions, and other investments?", very secure
+11,"How secure is your current and future income from your salary, pensions, and other investments?", moderately secure
+12,"How much of your current income and assets are you willing to invest monthly?",less than 10%
+12,"How much of your current income and assets are you willing to invest monthly?",more than 10%
+13,"How much do you want to invest to get started?", 5000-25000
+13,"How much do you want to invest to get started?", >25000
+14,"What is your understanding of stocks, bonds, and ETFs?",none
+14,"What is your understanding of stocks, bonds, and ETFs?",some
+14,"What is your understanding of stocks, bonds, and ETFs?",good
+14,"What is your understanding of stocks, bonds, and ETFs?",extensive
+15,"How would you describe your approach to making important financial decisions?",I try to avoid making decisions
+15,"How would you describe your approach to making important financial decisions?",I reluctantly make decisions
+15,"How would you describe your approach to making important financial decisions?",I confidently make decisions
+16,"What is your primary investment objective from this account: capital preservation, income generation, or capital growth?", Capital Preservation
+16,"What is your primary investment objective from this account: capital preservation, income generation, or capital growth?", income generation
+16,"What is your primary investment objective from this account: capital preservation, income generation, or capital growth?", capital growth
+16,"What is your primary investment objective from this account: capital preservation, income generation, or capital growth?",customized preference
+17,"When considering investments and making decisions, do you think about the impact of possible losses or possible gains?",I am always concerned about possible losses
+17,"When considering investments and making decisions, do you think about the impact of possible losses or possible gains?",I am somewhat concerned about possible losses
+17,"When considering investments and making decisions, do you think about the impact of possible losses or possible gains?",I consider possible losses and gains equally
+17,"When considering investments and making decisions, do you think about the impact of possible losses or possible gains?",I usually think about possible gains
+17,"When considering investments and making decisions, do you think about the impact of possible losses or possible gains?",I always think about possible gains
+18,"which investment goals are important to you? (retirement planning, wealth accumulation, education funding, etc.)",preparing for retirement
+18,"which investment goals are important to you? (retirement planning, wealth accumulation, education funding, etc.)",save for major upcoming expenses
+18,"which investment goals are important to you? (retirement planning, wealth accumulation, education funding, etc.)",save for something special
+18,"which investment goals are important to you? (retirement planning, wealth accumulation, education funding, etc.)",build a rainy day fund for emergencies
+18,"which investment goals are important to you? (retirement planning, wealth accumulation, education funding, etc.)",generate income for expenses
+18,"which investment goals are important to you? (retirement planning, wealth accumulation, education funding, etc.)",build long term wealth
+19,"How long are you planning on investing your capital before you think you will need to access it?", 1 year
+19,"How long are you planning on investing your capital before you think you will need to access it?", 2-5 years
+19,"How long are you planning on investing your capital before you think you will need to access it?", 5-10 years
+19,"How long are you planning on investing your capital before you think you will need to access it?", over 10 years
+20,"How comfortable are you with taking investment risks to achieve your goal?", Not comftorable
+20,"How comfortable are you with taking investment risks to achieve your goal?", Moderately comftorable
+20,"How comfortable are you with taking investment risks to achieve your goal?", Very comftorable
+21,"To what extent will you rely on income generated from this portfolio to meet your needs?",Heavily. I will considerably rely on income from this portfolio
+21,"To what extent will you rely on income generated from this portfolio to meet your needs?",Moderate. I rely on the income from this portfolio to a reasonable degree
+21,"To what extent will you rely on income generated from this portfolio to meet your needs?",Somewhat. income from the portfolio would help meet my needs
+21,"To what extent will you rely on income generated from this portfolio to meet your needs?",Not at all. I have other sources of income 
